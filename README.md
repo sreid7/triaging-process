@@ -1,4 +1,4 @@
-# triaging-process
+# Triaging-Process
 
 The Ideal Triaging Process:
 
